@@ -21,7 +21,7 @@ This script monitors the status of specified websites and sends email notificati
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/website-monitoring-script.git
+   git clone https://github.com/Nagu0804/serverCheck_script.git
    cd serverCheck_script
    ```
 
